@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oii!! Eu sou a Kamila
+    Hello!! I am Kamila
     
   </h1>
   
   <p align="center">
-   Sou desenvolvedora e atualmente estou estudando Analise e Desenvolvimento de Sistemas, tendo foco Full Stack
+  I'm a developer and I'm currently studying Systems Analysis and Development, focusing on Full Stack
   </p>
   
 </div>
