@@ -12,7 +12,6 @@
   
 </div>
 
-
 >👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
 >🎓 Studying ADS - Universidade Paulista UNIP 
