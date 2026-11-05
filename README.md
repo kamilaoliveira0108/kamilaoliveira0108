@@ -14,7 +14,7 @@
 
 >👩🏾‍💻 Exploring new technologies and developing software solutions.
 >
->🎓 Studying ADS - Universidade Paulista >
+>🎓 Studying ADS >
 >🌱 Learning more about: Node.JS, React, Typerscript
 
 ## My skills:
